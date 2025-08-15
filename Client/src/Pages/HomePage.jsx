@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import ChatContainer from "../Component/ChatContainer";
-import RightSidebar from "../component/RightSidebar";
+import RightSidebar from "../Component/RightSidebar";
 import Sidebar from "../Component/Sidebar";
 import { ChatContext } from "../../Context/ChatContext";
 
